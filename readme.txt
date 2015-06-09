@@ -8,3 +8,4 @@ Created a tang branch
 Creating a new branch is quick and simple.
 Operate in Tang branch
 Operate in dev branch.
+-------分支管理策略
