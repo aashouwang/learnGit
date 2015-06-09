@@ -10,3 +10,5 @@ Operate in Tang branch
 Operate in dev branch.
 -------分支管理策略
 =======发现bug，现在需要修改bug，但是当前的项目暂时还不能提交
+--添加工作区域 	——唐铁山
+--添加工作区域	——黄杨怀
